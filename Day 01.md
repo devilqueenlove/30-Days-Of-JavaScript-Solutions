@@ -20,10 +20,10 @@ and informative
 
 4. Create a variable.js file and declare variables and assign string, boolean, undefined and null data types
 ```
-var name = "John Doe";    <!-- String -->
-var isMarried = true;    <!-- Boolean  -->
-var x;                    <!-- Undefined -->
-var y = null;             <!-- Null -->
+var name = "John Doe";    
+var isMarried = true;    
+var x;                   
+var y = null;            
 ```
 5. Create datatypes.js file and use the JavaScript **_typeof_** operator to check different data types. Check the data type of each variable
 ```
