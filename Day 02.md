@@ -126,7 +126,7 @@ console.log(challenge.match(/a/g));
 let challenge = '30 Days of';
 let language = " " + 'JavaScript';
 console.log(challenge.concat(language)));
-
+```
 25. Use __repeat()__ method to print 30 Days Of JavaScript 2 times
 ```
 let word = 'JavaScript'
